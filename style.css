@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+
+    
+}
+.portfolio{
+   margin:10px 70px;
+   background-color:beige;
+}
+
+
+ li{
+    display: inline-block;
+    padding: 10px 30px;
+}
+a{
+    text-decoration: none;
+    color :white
+}
+nav{
+    text-align: center;
+    background-color: black;
+    
+
+}
+hr{
+    color: grey;
+   
+}
+.main-header{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.header-title{
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    font-size: 50px;
+
+}
+img{
+    border-radius:100px;
+    position: absolute;
+    right: 20%;
+    top: 20%;
+    
+
+}
+/* work*/
+h2{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin:20px 0px;
+    
+}
+#work p{
+    border:1px solid black;
+    margin: 10px;
+}
+
+form { 
+    height: 100px;    
+}
+label input{
+    display:block;
+}
